@@ -13,6 +13,7 @@ to Friends of Monika and MAS related projects.
 | /rpc                               | https://github.com/friends-of-monika/mas-presence/     |
 | /say                               | https://github.com/friends-of-monika/mas-saysomething/ |
 | /mas/gifts                         | https://github.com/Monika-After-Story/MonikaModDev/wiki/All-Features-%5BSPOILERS%5D#gifts |
+| /links                             | https://github.com/Friends-of-Monika/monicu#-list-of-shortcuts |
 
 ## 🙋 Contributing and suggesting shortcuts
 

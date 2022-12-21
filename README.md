@@ -12,3 +12,4 @@ to Friends of Monika and MAS related projects.
 | /friends                           | https://github.com/friends-of-monika/                  |
 | /rpc                               | https://github.com/friends-of-monika/mas-presence/     |
 | /say                               | https://github.com/friends-of-monika/mas-saysomething/ |
+| /mas/gifts                         | https://github.com/Monika-After-Story/MonikaModDev/wiki/All-Features-%5BSPOILERS%5D#gifts |

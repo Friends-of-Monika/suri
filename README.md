@@ -7,7 +7,6 @@ to Friends of Monika and MAS related projects.
 
 | Path (relative to https://mon.icu) | URL                                                    |
 |------------------------------------|--------------------------------------------------------|
-| /blog                              | https://blog.mon.icu/                                  |
 | /discord                           | https://discord.gg/NmtzTPZnmj                          |
 | /friends                           | https://github.com/friends-of-monika/                  |
 | /rpc                               | https://github.com/friends-of-monika/mas-presence/     |
